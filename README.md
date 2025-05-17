@@ -46,9 +46,6 @@ LSBU Smart Home designs, installs, and maintains IoT-based smart home systems. T
 | Dashboard | BI dashboard using Power BI | ✅ Complete |
 
 
-## 📊 Dashboard Preview
 
-> *(Insert Power BI dashboard image here)*  
-> `![Dashboard Screenshot](PowerBI/dashboard_sample.png)`
 
 
