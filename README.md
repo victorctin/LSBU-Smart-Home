@@ -185,6 +185,7 @@ Open `PowerBi Dashboard.pbix` in Power BI Desktop. Update the data source connec
 ## Author
 
 **Victor Pavel**
+
 Data Analyst | London, UK
 [LinkedIn](https://linkedin.com/in/victorctin/)
 [GitHub](https://github.com/victorctin)
